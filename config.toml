@@ -1,5 +1,5 @@
 baseurl = "https://nanx.me/hugo-tanka/"
-title = "A top the data pile"
+title = "Atop the data pile"
 author = "Axel Bergman"
 canonifyurls = true
 languagecode = "en"
@@ -15,7 +15,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "A top the data pile"
+  sitename = "Atop the data pile"
 
 [[menu.main]]
     name = "Home"
