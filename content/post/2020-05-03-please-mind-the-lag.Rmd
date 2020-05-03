@@ -1,0 +1,17 @@
+---
+title: Please mind the lag
+author: Axel Bergman
+date: '2020-05-03'
+slug: please-mind-the-lag
+categories: []
+tags: []
+---
+
+```{r} 
+library(tidyverse)
+```
+
+```{r}
+summary(cars) 
+```
+
